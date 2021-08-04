@@ -1,0 +1,57 @@
+.title{
+  font-size: 70px;
+  text-align: center;
+  color: #68717e;
+}
+
+.container {
+  margin-top: 7cm;
+  width: auto;
+  margin-bottom: 7cm;
+}
+
+.subtitle{
+  font-size: 50px;
+  text-align: center;
+  color: #8db0b7;
+}
+
+.button{
+  text-align: center;
+  
+}
+
+.button button{
+  height: 75px;
+  width: 200px;
+  font-size: 30px;
+  color: #ce8272;
+  background-color: #f9dfd6;
+  border-radius: 12px;
+  cursor: pointer;
+  border: none;
+  transition: ease-out 0.3s;
+}
+
+.button button:hover{
+  color: black;
+  box-shadow: inset 200px 0 0 0 white;
+}
+
+.list {
+  
+  width: 80%;
+  margin: 2rem auto;
+}
+
+.list ul{
+  display: flex;
+  justify-content: space-around;
+  
+}
+
+.list li{
+  list-style: none;
+  /* padding: 0 1.3cm; */
+  
+}
